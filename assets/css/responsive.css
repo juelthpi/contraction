@@ -1,0 +1,192 @@
+@media all and (max-width: 767px){
+	.f-left p {
+	 
+		text-align: center;
+	}
+	.f-right {
+	float: inherit;
+	}
+	.f-right ul {
+	 
+	justify-content: center;
+	}
+	.header-top-left {
+		width: 100%;
+		text-align: center;
+	}
+	.header-top-right {
+		width: 100%;
+	}
+	.header-top-right ul {
+	 
+		justify-content: center;
+	}
+	.re-button{
+  		display: block;
+		padding-top: 10px;
+		font-size: 22px;
+ 	}
+ 	.re-button i{
+ 		color:#FAB702;
+ 	}
+ 	.nav ul{
+ 		display: none;
+
+ 	}
+ 	.nav ul{
+ 		position: absolute;
+ 		top:53px;
+ 		left: 0%;
+ 		right: 0%;
+ 		text-align: center;
+ 		background: white;
+ 		z-index: 1;
+ 		
+ 	}
+ 	.slide-area {
+		padding: 80px 0;
+		 
+	}
+	.slide-area-carsol {
+	display: inherit !important;
+	background: #f9f9f9;
+	}
+	.owl-carousel .owl-item img {
+		display: block;
+		width: 36%;
+		 
+		margin: 0 auto;
+		height: 200px;
+	}
+	.person {
+	width: 100%;
+	text-align: center;
+	}
+	.counter-data ul li h3 {
+	font-size: 27px;
+	 
+	}
+	.plan-text a{
+		margin-bottom: 40px;
+	}
+	.plan-area {
+	padding-bottom: 50px;
+	}
+
+
+}
+@media all and (min-width: 767px){
+	.nav ul{
+ 		display: block !important;
+ 		 display: flex !important;
+
+ 	}
+}
+@media all and (max-width:1200px){
+	.em-button {
+	margin-top: 30px;
+	}
+}
+@media all and (max-width:991px){
+	.plan-item {
+	margin-bottom: 35px;
+	}
+	.recent-contact {
+		margin-top: 54px;
+	}
+	.recent-list{
+		margin-top: 54px;
+	}
+	 .slide-text h1 {
+		font-size: 40px;
+		 
+		 width:100%; 
+		 
+	}
+	.slide-text p {
+	 
+	  width:100%; 
+	 
+	}
+	
+	.counsolting-left p {
+	 font-size: 22px;
+	margin-bottom: 14px;
+	}
+	.counsolting-left p a {
+	 
+	font-size: 22px;
+	}
+	.services-text p {
+	 
+	width: 100%;
+	 
+	}
+	.services-area {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	}
+	.builder-right-text p {
+	 
+	 width:100%; 
+	}
+	.w-text p {
+	 
+	width: 100%;
+	 
+	}
+	.w-text h2 {
+	 
+	font-size: 32px;
+	 
+	}
+	.feedback-heading p {
+		width: 100%;
+	 
+	}
+	 
+}
+
+@media all and (max-width:480px){
+	.filder-overly ul li {
+	 
+	margin-top: 15px;
+	}
+	.filder-overly p {
+	 
+	font-size: 12px;
+	 
+	}
+	.counter-area {
+	 
+	padding: 44px 0;
+	}
+	.counter-data ul li {
+	 
+	padding: 15px 0;
+	width: 35%;
+	text-align: center;
+	}
+	.owl-carousel .owl-item img {
+	 
+	height: 131px;
+	}
+	 .slide-text h1 {
+		font-size: 27px;
+	 
+	} 
+	.filder-menu ul {
+	 
+		flex-wrap: wrap;
+	}
+	.filder-menu ul li {
+		 
+		margin: 3px 9px;
+		 
+	}
+	.feedback-heading h2 {
+	 
+	font-size: 27px;
+	 
+	}
+}
